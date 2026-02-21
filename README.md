@@ -1,0 +1,2 @@
+# FishStaking
+FishTable Staking Platform
